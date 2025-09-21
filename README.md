@@ -1,6 +1,6 @@
 # Sentiment Journal
 
-A full-stack web application for tracking moods and journaling with sentiment analysis. Built with React, TypeScript, and a backend powered by [your choice: Firebase/Supabase/PostgreSQL/etc.].
+A full-stack web application for tracking moods and journaling with sentiment analysis. Built with React, TypeScript, and a backend powered by Supabase
 
 ## Features
 - **User Authentication**: Secure sign up, login, and session management.
